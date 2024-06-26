@@ -6,9 +6,9 @@ For more information, visit our [webOS Hackathon Website](http://weboshackathon.
 
 ## What is webOS TV?
 
-webOS-TV is a web-centric smart TV platform that has powered LG Smart TVs for over a decade. Renowned for its reliable and stable performance globally, webOS-TV has proven its potential as a leading player in the competition among Linux-based smart display platforms.
+webOS TV is a web-centric smart TV platform that has powered LG Smart TVs for over a decade. Renowned for its reliable and stable performance globally, webOS TV has proven its potential as a leading player in the competition among Linux-based smart display platforms.
 
-![webOS-TV](https://github.com/youngheoncho/webos-hackathon/assets/111717000/87b55e8a-f9bc-42c9-b0c9-ef00817c33f3)
+![webOS TV](https://github.com/youngheoncho/webos-hackathon/assets/111717000/87b55e8a-f9bc-42c9-b0c9-ef00817c33f3)
 
 ## webOS Architecture
 
@@ -26,6 +26,6 @@ Web apps for webOS TV are similar to standard web apps and can be created using 
 
 webOS TV supports JavaScript services created using Node.js. These services can perform background processing, low-level networking, access the file system, and more. Apps can access webOS JavaScript services through the webOS TV System Bus.
 
-Join us to explore the exciting world of webOS-TV development and bring your innovative ideas to life!
+Join us to explore the exciting world of webOS TV development and bring your innovative ideas to life!
 
 For any inquiries, please contact us at [webos-hackathon@lge.com](mailto:webos-hackathon@lge.com).
