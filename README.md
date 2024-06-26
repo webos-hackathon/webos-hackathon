@@ -1,6 +1,6 @@
 # webOS-Hackathon-2024
 
-Join us for the webOS-Hackathon webinar, where we will introduce the fundamentals of webOS-TV and its architecture. We will cover the basics of web apps and JavaScript services, concluding with a few sample apps that participants can use as references for their projects.
+The webOS Hackathon 2024 invites developers to create innovative games and AI applications for LG TVs. With a prize pool totaling $230,000, participants can submit their apps until August 26, 2024. The event emphasizes production readiness, user engagement, and seamless integration with webOS. Selected participants will present their apps at the webOS Summit in Seoul and have their creations published on the LG Content Store. Key dates include an introductory webinar on July 9, registration deadline on July 26, submission deadline on August 26, and winners' presentations on September 27.
 
 For more information, visit our [webOS Hackathon Website](http://weboshackathon.lge.com).
 
