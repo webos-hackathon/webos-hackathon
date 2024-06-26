@@ -26,15 +26,6 @@ Web apps for webOS TV are similar to standard web apps and can be created using 
 
 webOS TV supports JavaScript services created using Node.js. These services can perform background processing, low-level networking, access the file system, and more. Apps can access webOS JavaScript services through the webOS TV System Bus.
 
-## Table of Contents
-
-The webinar will cover the following topics:
-
-1. First-App
-2. App-Basics
-3. JS-Service
-4. webOS-TV-Sample-Apps
-
 Join us to explore the exciting world of webOS-TV development and bring your innovative ideas to life!
 
 For any inquiries, please contact us at [webos-hackathon@lge.com](mailto:webos-hackathon@lge.com).
